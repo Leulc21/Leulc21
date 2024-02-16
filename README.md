@@ -1,6 +1,8 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
 <h1 align="center">Hi 👋, I'm Leul Chanie Demsie</h1>
 <h3 align="center">A passionate frontend developer from Ethiopia</h3>
-<img src="https://i.pinimg.com/originals/6e/a8/c6/6ea8c68dfa924bc2e6a9abe3e473087a.gif" alt="Fun GIF">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/6e/a8/c6/6ea8c68dfa924bc2e6a9abe3e473087a.gif" alt="Fun GIF">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leulc21&label=Profile%20views&color=0e75b6&style=flat" alt="leulc21" /> </p>
 
