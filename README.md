@@ -1,30 +1,143 @@
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Leulc21&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/Leulc21)
+<!-- <h3 align ="center"> <strong> Let`s Code.Build & FUN </strong> </h3>  -->
+<div align="left" width="100%" height="100%"> 
+ 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leul-chanie-7b10ba260/)
+[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff&style=for-the-badge)](mailto:leulchanie576@gmail.com)
+![](https://komarev.com/ghpvc/?username=yeabnoah&color=brightgreen&style=for-the-badge)
+[![Telegram](https://img.shields.io/badge/Telegram-%231877F2.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/LeulC21)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=.for-the-badge&logo=Twitter&logoColor=white)](https://x.com/Leulc21)
+</div>
 
-<h1 align="center">Hi 👋, I'm Leul Chanie Demsie</h1>
-<h3 align="center">A passionate frontend developer from Ethiopia</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/6e/a8/c6/6ea8c68dfa924bc2e6a9abe3e473087a.gif" alt="Fun GIF">
+<h4 style="font-size: 20px;">
+  👋 Hello! I'm Leul, a self-taught web and mobile developer from Ethiopia. I love using technology to solve real-world problems and bring ideas to life. I'm detail-oriented, persistent, and always eager to learn something new. When I'm not coding, I'm exploring new tools, frameworks, and ideas. Let's connect and build something awesome together!
+</h4>
 
+<h2>Some of the technologies I work with ❤️</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=leulc21&label=Profile%20views&color=0e75b6&style=flat" alt="leulc21" /> </p>
+<h4>Programming Languages</h4>
+ 
+<table width="100%" height="100%">
+  <tr>
+    <td align="center">
+      <img alt="Typescript" height="64px" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" />
+      <br />
+      <sub><b>Typescript</b></sub>
+    </td>
+    <td align="center">
+      <img alt="Javascript" height="64px" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" />
+      <br />
+      <sub><b>Javascript</b></sub>
+    </td>
+    <td align="center">
+      <img alt="Python" height="64px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" />
+      <br />
+      <sub><b>Python</b></sub>
+    </td>
+    <td align="center">
+      <img alt="Dart" height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
+      <br />
+      <sub><b>Dart</b></sub>
+    </td>
+  </tr>
+</table>
 
-- 🌱 I’m currently learning **Flutter and python**
+<h4>Technologies [Frameworks & Tools]</h4>
 
-- 💬 Ask me about **flutter**
+<table width="100%">
+  <tr>
+    <td align="center">
+      <img alt="Next.js" height="64px" src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png" />
+      <br />
+      <sub><b>Next.js</b></sub>
+    </td>
+    <td align="center">
+      <img alt="React" height="64px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" />
+      <br />
+      <sub><b>React</b></sub>
+    </td>
+    <td align="center">
+      <img alt="Django" height="64px" src="https://cdn.worldvectorlogo.com/logos/django.svg" />
+      <br />
+      <sub><b>Django</b></sub>
+    </td>
+    <td align="center">
+      <img alt="Flutter" height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+      <br />
+      <sub><b>Flutter</b></sub>
+    </td>
+    <td align="center">
+      <img alt="Tailwind" height="64px" src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" />
+      <br />
+      <sub><b>Tailwind CSS</b></sub>
+    </td>
+    <td align="center">
+      <img alt="Redux" height="64px" src="https://cdn.worldvectorlogo.com/logos/redux.svg" />
+      <br />
+      <sub><b>Redux</b></sub>
+    </td>
+    <td align="center">
+      <img alt="Prisma" height="48px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/prisma.svg" />
+      <br />
+      <sub><b>Prisma</b></sub>
+    </td>
+    <td align="center">
+      <img alt="Firebase" height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+      <br />
+      <sub><b>Firebase</b></sub>
+    </td>
+    <td align="center">
+      <img alt="shad-cn" height="64px" src="https://pbs.twimg.com/media/FxoIFVgagAE-gqB?format=png&name=4096x4096" />
+      <br />
+      <sub><b>shad-cn</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img alt="Supabase" height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" />
+      <br />
+      <sub><b>Supabase</b></sub>
+    </td>
+    <td align="center">
+      <img alt="Zod" height="64px" src="https://img.icons8.com/ios-filled/100/000000/code.png" />
+      <br />
+      <sub><b>Zod</b></sub>
+    </td>
+    <td align="center">
+      <img alt="MongoDB" height="64px" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" />
+      <br />
+      <sub><b>MongoDB</b></sub>
+    </td>
+    <td align="center">
+      <img alt="MySQL" height="64px" src="https://brandslogos.com/wp-content/uploads/thumbs/mysql-logo-vector-1.svg" />
+      <br />
+      <sub><b>MySQL</b></sub>
+    </td>
+    <td align="center">
+      <img alt="GraphQL" height="64px" src="https://cdn.worldvectorlogo.com/logos/graphql-logo-2.svg" />
+      <br />
+      <sub><b>GraphQL</b></sub>
+    </td>
+    <td align="center">
+      <img alt="PostgreSQL" height="64px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg?raw=true" />
+      <br />
+      <sub><b>PostgreSQL</b></sub>
+    </td>
+    <td align="center">
+      <img alt="Postman" height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />
+      <br />
+      <sub><b>Postman</b></sub>
+    </td>
+  </tr>
+</table>
 
-- 📫 How to reach me **leulchanie576@gmail.com**
+<br />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/leulch21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leulch21" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/1000508017913"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="1000508017913" /></a><a href="https://ko-fi.com/CBE"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="CBE" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leulc21&show_icons=true&locale=en&layout=compact" alt="leulc21" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leulc21&show_icons=true&locale=en" alt="leulc21" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leulc21&" alt="leulc21" /></p>
+<table align="center" width="100%" height="100%" >
+   <tr>
+     <td> 
+  
+![Github stats](https://github-readme-stats.vercel.app/api?username=Leulc21&theme=radical&show_icons=true&count_private=true&hide=issues) </td>
+     <td> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leulc21&theme=radical&layout=compact)](https://github.com/Leulc21) </td>
+   </tr>
+  </table>
