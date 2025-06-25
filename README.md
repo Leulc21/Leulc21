@@ -128,6 +128,27 @@
       <br />
       <sub><b>Postman</b></sub>
     </td>
+   <!-- Drizzle ORM -->
+<td align="center">
+  <img alt="Drizzle" height="64px" src="https://raw.githubusercontent.com/drizzle-team/drizzle-orm/main/assets/logo.svg" />
+  <br />
+  <sub><b>Drizzle ORM</b></sub>
+</td>
+
+<!-- Clerk -->
+<td align="center">
+  <img alt="Clerk" height="64px" src="https://avatars.githubusercontent.com/u/76264733?s=200&v=4" />
+  <br />
+  <sub><b>Clerk</b></sub>
+</td>
+
+<!-- BetterAuth (custom/placeholder) -->
+<td align="center">
+  <img alt="BetterAuth" height="64px" src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/external-authentication-security-flatart-icons-outline-flatarticons.png" />
+  <br />
+  <sub><b>BetterAuth</b></sub>
+</td>
+
   </tr>
 </table>
 
