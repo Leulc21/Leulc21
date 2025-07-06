@@ -1,12 +1,11 @@
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Leulc21&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/Leulc21)
-<!-- <h3 align ="center"> <strong> Let`s Code.Build & FUN </strong> </h3>  -->
+
 <div align="left" width="100%" height="100%"> 
- 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leul-chanie-7b10ba260/)
-[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff&style=for-the-badge)](mailto:leulchanie576@gmail.com)
-![](https://komarev.com/ghpvc/?username=yeabnoah&color=brightgreen&style=for-the-badge)
-[![Telegram](https://img.shields.io/badge/Telegram-%231877F2.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/LeulC21)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=.for-the-badge&logo=Twitter&logoColor=white)](https://x.com/Leulc21)
+  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leul-chanie-7b10ba260/)
+  [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff&style=for-the-badge)](mailto:leulchanie576@gmail.com)
+  ![](https://komarev.com/ghpvc/?username=Leulc21&color=brightgreen&style=for-the-badge)
+  [![Telegram](https://img.shields.io/badge/Telegram-%231877F2.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/LeulC21)
+  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/Leulc21)
 </div>
 
 <h4 style="font-size: 20px;">
@@ -16,7 +15,6 @@
 <h2>Some of the technologies I work with ❤️</h2>
 
 <h4>Programming Languages</h4>
- 
 <table width="100%" height="100%">
   <tr>
     <td align="center">
@@ -43,7 +41,6 @@
 </table>
 
 <h4>Technologies [Frameworks & Tools]</h4>
-
 <table width="100%">
   <tr>
     <td align="center">
@@ -76,6 +73,9 @@
       <br />
       <sub><b>Redux</b></sub>
     </td>
+  </tr>
+
+  <tr>
     <td align="center">
       <img alt="Prisma" height="48px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/prisma.svg" />
       <br />
@@ -91,8 +91,6 @@
       <br />
       <sub><b>shad-cn</b></sub>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img alt="Supabase" height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" />
       <br />
@@ -108,6 +106,9 @@
       <br />
       <sub><b>MongoDB</b></sub>
     </td>
+  </tr>
+
+  <tr>
     <td align="center">
       <img alt="MySQL" height="64px" src="https://brandslogos.com/wp-content/uploads/thumbs/mysql-logo-vector-1.svg" />
       <br />
@@ -128,63 +129,58 @@
       <br />
       <sub><b>Postman</b></sub>
     </td>
-  <!-- Drizzle ORM -->
-<td align="center">
-  <img alt="Drizzle ORM" height="48" src="https://raw.githubusercontent.com/drizzle-team/drizzle-orm/main/assets/logo.svg" />
-  <br />
-  <sub><b>Drizzle ORM</b></sub>
-</td>
+    <td align="center">
+      <img alt="Drizzle ORM" height="48" src="https://raw.githubusercontent.com/drizzle-team/drizzle-orm/main/assets/logo.svg" />
+      <br />
+      <sub><b>Drizzle ORM</b></sub>
+    </td>
+    <td align="center">
+      <img alt="Clerk" height="48" src="https://raw.githubusercontent.com/clerk/clerk-sdk-node/main/assets/logo.png" />
+      <br />
+      <sub><b>Clerk</b></sub>
+    </td>
+  </tr>
 
-<!-- Clerk -->
-<td align="center">
-  <img alt="Clerk" height="48" src="https://raw.githubusercontent.com/clerk/clerk-sdk-node/main/assets/logo.png" />
-  <br />
-  <sub><b>Clerk</b></sub>
-</td>
-
-<!-- BetterAuth (Custom/Fallback) -->
-<td align="center">
-  <img alt="BetterAuth" height="48" src="https://img.icons8.com/ios-filled/50/lock.png" />
-  <br />
-  <sub><b>BetterAuth</b></sub>
-</td>
-<td align="center">
-  <img alt="Hono" height="64px" src="https://raw.githubusercontent.com/honojs/hono/main/assets/hono-logo.png" />
-  <br />
-  <sub><b>Hono</b></sub>
-</td>
-<td align="center">
-  <img alt="Express" height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" />
-  <br />
-  <sub><b>Express</b></sub>
-</td>
-<td align="center">
-  <img alt="Express" height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" />
-  <br />
-  <sub><b>Express</b></sub>
-</td>
-<td align="center">
-  <img alt="Node.js" height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
-  <br />
-  <sub><b>Node.js</b></sub>
-</td>
-<td align="center">
-  <img alt="Bun.js" height="64px" src="https://bun.sh/logo.svg" />
-  <br />
-  <sub><b>Bun.js</b></sub>
-</td>
-
-
+  <tr>
+    <td align="center">
+      <img alt="BetterAuth" height="48" src="https://img.icons8.com/ios-filled/50/lock.png" />
+      <br />
+      <sub><b>BetterAuth</b></sub>
+    </td>
+    <td align="center">
+      <img alt="Hono" height="64px" src="https://raw.githubusercontent.com/honojs/hono/main/assets/hono-logo.png" />
+      <br />
+      <sub><b>Hono</b></sub>
+    </td>
+    <td align="center">
+      <img alt="Express" height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" />
+      <br />
+      <sub><b>Express</b></sub>
+    </td>
+    <td align="center">
+      <img alt="Node.js" height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
+      <br />
+      <sub><b>Node.js</b></sub>
+    </td>
+    <td align="center">
+      <img alt="Bun.js" height="64px" src="https://bun.sh/logo.svg" />
+      <br />
+      <sub><b>Bun.js</b></sub>
+    </td>
   </tr>
 </table>
 
 <br />
 
 <table align="center" width="100%" height="100%" >
-   <tr>
-     <td> 
-  
-![Github stats](https://github-readme-stats.vercel.app/api?username=Leulc21&theme=radical&show_icons=true&count_private=true&hide=issues) </td>
-     <td> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leulc21&theme=radical&layout=compact)](https://github.com/Leulc21) </td>
-   </tr>
-  </table>
+  <tr>
+    <td> 
+      <img src="https://github-readme-stats.vercel.app/api?username=Leulc21&theme=radical&show_icons=true&count_private=true&hide=issues" alt="Github stats" />
+    </td>
+    <td> 
+      <a href="https://github.com/Leulc21">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leulc21&theme=radical&layout=compact" alt="Top Languages" />
+      </a>
+    </td>
+  </tr>
+</table>
