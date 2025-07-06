@@ -148,6 +148,31 @@
   <br />
   <sub><b>BetterAuth</b></sub>
 </td>
+<td align="center">
+  <img alt="Hono" height="64px" src="https://raw.githubusercontent.com/honojs/hono/main/assets/hono-logo.png" />
+  <br />
+  <sub><b>Hono</b></sub>
+</td>
+<td align="center">
+  <img alt="Express" height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" />
+  <br />
+  <sub><b>Express</b></sub>
+</td>
+<td align="center">
+  <img alt="Express" height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" />
+  <br />
+  <sub><b>Express</b></sub>
+</td>
+<td align="center">
+  <img alt="Node.js" height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
+  <br />
+  <sub><b>Node.js</b></sub>
+</td>
+<td align="center">
+  <img alt="Bun.js" height="64px" src="https://bun.sh/logo.svg" />
+  <br />
+  <sub><b>Bun.js</b></sub>
+</td>
 
 
   </tr>
