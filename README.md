@@ -1,12 +1,11 @@
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Leulc21&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/Leulc21)
 
-<div align="left" width="100%" height="100%"> 
-  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leul-chanie-7b10ba260/)
-  [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff&style=for-the-badge)](mailto:leulchanie576@gmail.com)
-  ![](https://komarev.com/ghpvc/?username=Leulc21&color=brightgreen&style=for-the-badge)
-  [![Telegram](https://img.shields.io/badge/Telegram-%231877F2.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/LeulC21)
-  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/Leulc21)
-</div>
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leul-chanie-7b10ba260/)
+[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff&style=for-the-badge)](mailto:leulchanie576@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=Leulc21&color=brightgreen&style=for-the-badge)
+[![Telegram](https://img.shields.io/badge/Telegram-%231877F2.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/LeulC21)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/Leulc21)
+
 
 <h4 style="font-size: 20px;">
   👋 Hello! I'm Leul, a self-taught web and mobile developer from Ethiopia. I love using technology to solve real-world problems and bring ideas to life. I'm detail-oriented, persistent, and always eager to learn something new. When I'm not coding, I'm exploring new tools, frameworks, and ideas. Let's connect and build something awesome together!
