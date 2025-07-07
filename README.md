@@ -1,4 +1,4 @@
-it haave glitch plus theier ordr fix it
+
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Leulc21&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/Leulc21)
 <!-- <h3 align ="center"> <strong> Let`s Code.Build & FUN </strong> </h3>  -->
 <div align="left" width="100%" height="100%"> 
