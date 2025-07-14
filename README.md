@@ -16,34 +16,30 @@
 
 <h2>Some of the technologies I work with ❤️</h2>
 
-<h4>Programming Languages</h4>
- 
-<table width="100%" height="100%">
+<h4>🧠 Programming Languages</h4>
+
+<table width="100%">
   <tr>
     <td align="center">
-      <img alt="Typescript" height="64px" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" />
-      <br />
-      <sub><b>Typescript</b></sub>
+      <img alt="TypeScript" height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+      <br /><sub><b>TypeScript</b></sub>
     </td>
     <td align="center">
-      <img alt="Javascript" height="64px" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" />
-      <br />
-      <sub><b>Javascript</b></sub>
+      <img alt="JavaScript" height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+      <br /><sub><b>JavaScript</b></sub>
     </td>
     <td align="center">
-      <img alt="Python" height="64px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" />
-      <br />
-      <sub><b>Python</b></sub>
+      <img alt="Python" height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+      <br /><sub><b>Python</b></sub>
     </td>
     <td align="center">
       <img alt="Dart" height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
-      <br />
-      <sub><b>Dart</b></sub>
+      <br /><sub><b>Dart</b></sub>
     </td>
   </tr>
 </table>
 
-<h4>Technologies [Frameworks & Tools]</h4>
+<h4>⚙️ Technologies [Frameworks & Tools]</h4>
 
 <table width="100%">
   <tr>
@@ -52,31 +48,31 @@
       <br /><sub><b>Next.js</b></sub>
     </td>
     <td align="center">
-      <img alt="React" height="64px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" />
+      <img alt="React" height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
       <br /><sub><b>React</b></sub>
-    </td>
-    <td align="center">
-      <img alt="TypeScript" height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-      <br /><sub><b>TypeScript</b></sub>
     </td>
     <td align="center">
       <img alt="TanStack Query" height="64px" src="https://avatars.githubusercontent.com/u/72518640?s=200&v=4" />
       <br /><sub><b>TanStack Query</b></sub>
     </td>
     <td align="center">
+      <img alt="Shadcn" height="64px" src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" />
+      <br /><sub><b>Shadcn</b></sub>
+    </td>
+    <td align="center">
       <img alt="Flutter" height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
       <br /><sub><b>Flutter</b></sub>
     </td>
     <td align="center">
-      <img alt="Django" height="64px" src="https://cdn.worldvectorlogo.com/logos/django.svg" />
+      <img alt="Django" height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
       <br /><sub><b>Django</b></sub>
     </td>
     <td align="center">
-      <img alt="Tailwind CSS" height="64px" src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" />
+      <img alt="Tailwind CSS" height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
       <br /><sub><b>Tailwind CSS</b></sub>
     </td>
     <td align="center">
-      <img alt="Redux" height="64px" src="https://cdn.worldvectorlogo.com/logos/redux.svg" />
+      <img alt="Redux" height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
       <br /><sub><b>Redux</b></sub>
     </td>
   </tr>
@@ -98,11 +94,11 @@
       <br /><sub><b>Zod</b></sub>
     </td>
     <td align="center">
-      <img alt="MongoDB" height="64px" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" />
+      <img alt="MongoDB" height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
       <br /><sub><b>MongoDB</b></sub>
     </td>
     <td align="center">
-      <img alt="MySQL" height="64px" src="https://cdn.worldvectorlogo.com/logos/mysql-logo.svg" />
+      <img alt="MySQL" height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
       <br /><sub><b>MySQL</b></sub>
     </td>
     <td align="center">
@@ -110,7 +106,7 @@
       <br /><sub><b>PostgreSQL</b></sub>
     </td>
     <td align="center">
-      <img alt="GraphQL" height="64px" src="https://cdn.worldvectorlogo.com/logos/graphql-logo-2.svg" />
+      <img alt="GraphQL" height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
       <br /><sub><b>GraphQL</b></sub>
     </td>
   </tr>
@@ -140,15 +136,16 @@
       <br /><sub><b>Postman</b></sub>
     </td>
     <td align="center">
-      <img alt="Drizzle ORM" height="48" src="https://raw.githubusercontent.com/drizzle-team/drizzle-orm/main/assets/logo.svg" />
+      <img alt="Drizzle ORM" height="48px" src="https://raw.githubusercontent.com/drizzle-team/drizzle-orm/main/assets/logo.svg" />
       <br /><sub><b>Drizzle ORM</b></sub>
     </td>
     <td align="center">
-      <img alt="Clerk" height="48" src="https://avatars.githubusercontent.com/u/90917260?s=200&v=4" />
+      <img alt="Clerk" height="48px" src="https://avatars.githubusercontent.com/u/90917260?s=200&v=4" />
       <br /><sub><b>Clerk</b></sub>
     </td>
   </tr>
 </table>
+
 
 
 <br />
