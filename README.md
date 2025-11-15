@@ -90,7 +90,7 @@
       <br /><sub><b>Firebase</b></sub>
     </td>
     <td align="center">
-      <img alt="Supabase" height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" />
+      <img alt="Supabase" height="64px" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/supabase.svg" />
       <br /><sub><b>Supabase</b></sub>
     </td>
     <td align="center">
@@ -137,7 +137,7 @@
     </td>
     <td align="center">
       <img alt="MERN Stack" height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-      <br /><sub><b>MERN Stack</b></sub>
+      <br /><sub><b>Flutter Bloc</b></sub>
     </td>
     <td align="center">
       <img alt="Postman" height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />
@@ -145,14 +145,14 @@
     </td>
     <td align="center">
       <img alt="Drizzle ORM" height="48px" src="https://raw.githubusercontent.com/drizzle-team/drizzle-orm/main/assets/logo.svg" />
-      <br /><sub><b>Drizzle ORM</b></sub>
+      <br /><sub><b>Elysia js</b></sub>
     </td>
     <td align="center">
-      <img alt="Clerk" height="48px" src="https://avatars.githubusercontent.com/u/90917260?s=200&v=4" />
-      <br /><sub><b>Clerk</b></sub>
+      <img alt="betterAuth" height="48px" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/betterauth.svg" />
+      <br /><sub><b>BetterAuth</b></sub>
     </td>
    <td align="center">
-      <img alt="Clerk" height="48px" src="https://logo.svgcdn.com/l/vercel.svg" />
+      <img alt="vercel" height="48px" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/vercel.svg" />
       <br /><sub><b>Vercel</b></sub>
     </td>
   </tr>
