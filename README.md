@@ -120,7 +120,7 @@
       <br /><sub><b>Express</b></sub>
     </td>
     <td align="center">
-      <img alt="Hono" height="64px" src="https://commons.wikimedia.org/wiki/File:Hono-logo.svg" />
+      <img alt="Hono" height="64px" src="https://logo.svgcdn.com/l/hono.svg" />
       <br /><sub><b>Hono</b></sub>
     </td>
     <td align="center">
