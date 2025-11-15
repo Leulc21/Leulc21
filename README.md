@@ -64,7 +64,7 @@
       <br /><sub><b>Flutter</b></sub>
     </td>
     <td align="center">
-      <img alt="Django" height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+      <img alt="Django" height="64px" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/django.svg" />
       <br /><sub><b>Django</b></sub>
     </td>
     <td align="center">
@@ -72,11 +72,11 @@
       <br /><sub><b>Tailwind CSS</b></sub>
     </td>
     <td align="center">
-      <img alt="Redux" height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+      <img alt="Redux" height="64px" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/redux.svg" />
       <br /><sub><b>Redux</b></sub>
     </td>
    <td align="center">
-      <img alt="Redux" height="64px" src="https://logo.svgcdn.com/l/supabase.svg" />
+      <img alt="supabase" height="64px" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/supabase.svg" />
       <br /><sub><b>Supabase</b></sub>
     </td>
   </tr>
