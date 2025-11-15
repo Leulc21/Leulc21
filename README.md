@@ -21,19 +21,19 @@
 <table width="100%">
   <tr>
     <td align="center">
-      <img alt="TypeScript" height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+      <img alt="TypeScript" height="64px" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/typescript.svg" />
       <br /><sub><b>TypeScript</b></sub>
     </td>
     <td align="center">
-      <img alt="JavaScript" height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+      <img alt="JavaScript" height="64px" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/javascript.svg" />
       <br /><sub><b>JavaScript</b></sub>
     </td>
     <td align="center">
-      <img alt="Python" height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+      <img alt="Python" height="64px" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/python.svg" />
       <br /><sub><b>Python</b></sub>
     </td>
     <td align="center">
-      <img alt="Dart" height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
+      <img alt="Dart" height="64px" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/dart.svg" />
       <br /><sub><b>Dart</b></sub>
     </td>
   </tr>
@@ -48,7 +48,7 @@
       <br /><sub><b>Next.js</b></sub>
     </td>
     <td align="center">
-      <img alt="React" height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+      <img alt="React" height="64px" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/react.svg" />
       <br /><sub><b>React</b></sub>
     </td>
     <td align="center">
@@ -60,7 +60,7 @@
       <br /><sub><b>Shadcn</b></sub>
     </td>
     <td align="center">
-      <img alt="Flutter" height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+      <img alt="Flutter" height="64px" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/flutter.svg" />
       <br /><sub><b>Flutter</b></sub>
     </td>
     <td align="center">
@@ -82,11 +82,11 @@
   </tr>
   <tr>
     <td align="center">
-      <img alt="Prisma" height="48px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/prisma.svg" />
+      <img alt="Prisma" height="48px" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/prisma.svg" />
       <br /><sub><b>Prisma</b></sub>
     </td>
     <td align="center">
-      <img alt="Firebase" height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+      <img alt="Firebase" height="64px" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/firebase.svg" />
       <br /><sub><b>Firebase</b></sub>
     </td>
     <td align="center">
@@ -94,27 +94,27 @@
       <br /><sub><b>Supabase</b></sub>
     </td>
     <td align="center">
-      <img alt="Zod" height="64px" src="https://logo.svgcdn.com/l/zod.svg" />
+      <img alt="Zod" height="64px" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/zod.svg" />
       <br /><sub><b>Zod</b></sub>
     </td>
     <td align="center">
-      <img alt="MongoDB" height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+      <img alt="MongoDB" height="64px" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/mongodb.svg" />
       <br /><sub><b>MongoDB</b></sub>
     </td>
     <td align="center">
-      <img alt="MySQL" height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+      <img alt="MySQL" height="64px" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/mysql.svg" />
       <br /><sub><b>MySQL</b></sub>
     </td>
     <td align="center">
-      <img alt="PostgreSQL" height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+      <img alt="PostgreSQL" height="64px" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/postgresql.svg" />
       <br /><sub><b>PostgreSQL</b></sub>
     </td>
     <td align="center">
-      <img alt="GraphQL" height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
+      <img alt="GraphQL" height="64px" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/graphql.svg" />
       <br /><sub><b>GraphQL</b></sub>
     </td>
    <td align="center">
-      <img alt="GraphQL" height="64px" src="https://logo.svgcdn.com/l/trpc.svg" />
+      <img alt="GraphQL" height="64px" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/trpc.svg" />
       <br /><sub><b>TRPC</b></sub>
     </td>
   </tr>
@@ -124,15 +124,15 @@
       <br /><sub><b>Node.js</b></sub>
     </td>
     <td align="center">
-      <img alt="Express" height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+      <img alt="Express" height="64px" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/express.svg" />
       <br /><sub><b>Express</b></sub>
     </td>
     <td align="center">
-      <img alt="Hono" height="64px" src="https://logo.svgcdn.com/l/hono.svg" />
+      <img alt="Hono" height="64px" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/hono.svg" />
       <br /><sub><b>Hono</b></sub>
     </td>
     <td align="center">
-      <img alt="Bun.js" height="64px" src="https://bun.sh/logo.svg" />
+      <img alt="Bun.js" height="64px" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/bun.svg" />
       <br /><sub><b>Bun.js</b></sub>
     </td>
     <td align="center">
@@ -140,7 +140,7 @@
       <br /><sub><b>Flutter Bloc</b></sub>
     </td>
     <td align="center">
-      <img alt="Postman" height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />
+      <img alt="Postman" height="64px" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/postman.svg" />
       <br /><sub><b>Postman</b></sub>
     </td>
     <td align="center">
