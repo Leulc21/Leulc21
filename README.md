@@ -68,7 +68,7 @@
       <br /><sub><b>Django</b></sub>
     </td>
     <td align="center">
-      <img alt="Tailwind CSS" height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+      <img alt="Tailwind CSS" height="64px" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/tailwindcss.svg" />
       <br /><sub><b>Tailwind CSS</b></sub>
     </td>
     <td align="center">
