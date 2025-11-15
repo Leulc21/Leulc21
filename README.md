@@ -75,6 +75,10 @@
       <img alt="Redux" height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
       <br /><sub><b>Redux</b></sub>
     </td>
+   <td align="center">
+      <img alt="Redux" height="64px" src="https://logo.svgcdn.com/l/supabase.svg" />
+      <br /><sub><b>Supabase</b></sub>
+    </td>
   </tr>
   <tr>
     <td align="center">
@@ -90,7 +94,7 @@
       <br /><sub><b>Supabase</b></sub>
     </td>
     <td align="center">
-      <img alt="Zod" height="64px" src="https://img.icons8.com/ios-filled/100/code.png" />
+      <img alt="Zod" height="64px" src="https://logo.svgcdn.com/l/zod.svg" />
       <br /><sub><b>Zod</b></sub>
     </td>
     <td align="center">
@@ -108,6 +112,10 @@
     <td align="center">
       <img alt="GraphQL" height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
       <br /><sub><b>GraphQL</b></sub>
+    </td>
+   <td align="center">
+      <img alt="GraphQL" height="64px" src="https://logo.svgcdn.com/l/trpc.svg" />
+      <br /><sub><b>TRPC</b></sub>
     </td>
   </tr>
   <tr>
@@ -142,6 +150,10 @@
     <td align="center">
       <img alt="Clerk" height="48px" src="https://avatars.githubusercontent.com/u/90917260?s=200&v=4" />
       <br /><sub><b>Clerk</b></sub>
+    </td>
+   <td align="center">
+      <img alt="Clerk" height="48px" src="https://logo.svgcdn.com/l/vercel.svg" />
+      <br /><sub><b>Vercel</b></sub>
     </td>
   </tr>
 </table>
