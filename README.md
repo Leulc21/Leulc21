@@ -136,7 +136,7 @@
       <br /><sub><b>Bun.js</b></sub>
     </td>
     <td align="center">
-      <img alt="MERN Stack" height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+      <img alt="MERN Stack" height="64px" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/flutter.svg" />
       <br /><sub><b>Flutter Bloc</b></sub>
     </td>
     <td align="center">
